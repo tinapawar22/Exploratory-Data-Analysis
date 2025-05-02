@@ -13,10 +13,16 @@ Risk analytics  : EDA(numpy , pandas, matplotlib and seaborn libraries)
 
   
   -- When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
-Approved: The Company has approved loan Application
-Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing which he did not want.
-Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
-Unused offer:  Loan has been cancelled by the client but at different stages of the process.
+1.Approved: The Company has approved loan Application
+
+
+2.Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing which he did not want.
+
+
+3.Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
+
+
+4.Unused offer:  Loan has been cancelled by the client but at different stages of the process.
 
 
 
