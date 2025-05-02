@@ -13,6 +13,8 @@ Risk analytics  : EDA(numpy , pandas, matplotlib and seaborn libraries)
 
   
   -- When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
+
+
 1.Approved: The Company has approved loan Application
 
 
