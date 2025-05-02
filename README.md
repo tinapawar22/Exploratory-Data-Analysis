@@ -3,15 +3,13 @@ Risk analytics  : EDA(numpy , pandas, matplotlib and seaborn libraries)
 
 
 --dataset has 3 files as explained below: 
-1. 'application_data.csv'  contains all the information of the client at the time of application.
-   
-2. The data is about whether a client has payment difficulties.
+1. 'application_data.csv'  contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 
 
-3. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
 
-4. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
+3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
   
   -- When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
